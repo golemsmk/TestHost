@@ -105,7 +105,7 @@ async function getPokemon(i) {
       <img src="https://pokeres.bastionbot.org/images/pokemon/${
         pokemon.id
     }.png" width="200" alt="">
-
+<h2>${pokemon.name}</h2>
     </div>
 
     <div id="stats">
